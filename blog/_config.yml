@@ -2,7 +2,7 @@ title:              Blog
 email:              christodoulossantorinaios@gmail.com
 description:        Let's talk data
 author:             Christodoulos Santorinaios
-baseurl:            ""
+baseurl:            "/blog"
 url:                "https://csantor.github.io"
 
 # Social Profiles
